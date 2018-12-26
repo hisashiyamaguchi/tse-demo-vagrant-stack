@@ -54,3 +54,4 @@ Once the master is up and running, you'll need to add your license key to the ma
 Optional: Login to the Git server ([here](http://master.inf.puppet.vm:3000)) and update the puppet users ssh keys with your own public so that you can make updates to the control-repo.  
 
 test
+how to revert?
